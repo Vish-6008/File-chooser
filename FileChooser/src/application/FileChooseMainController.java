@@ -7,17 +7,16 @@
  *   Purpose:  Using JAVA-FX choosing the offline files,path's through--
  *   -- eclipse with single or multiple files similarly..
  *   Project:  FileChooseMainController.
- *   Platform: Cloud Service Provider Independent
- *   Compiler: JavaSE-11
- *   IDE:	   Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
-
- *			   Version: 2022-02 (4.0.0)
- *             Build id: 202202
+ *   Platform: JavaSE-22.0.1
+ *   Compiler: Java 17
+ *   IDE:  	   Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
+ *	           Version: 2024-03 (4.31.0)
+ *             Build id: 20240307-1437
  ********************************************************************************************/
 
 
 
-package application;    //this contyaind
+package application;    
 
 import java.io.File;
 import java.util.List;
